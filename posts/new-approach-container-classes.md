@@ -10,3 +10,5 @@ added: 2026-01-19T22:30:53.692Z
 ---
 
 Kevin Powell's 2023 video: [https://youtu.be/c13gpBrnGEw?si=Jhm-qvHVZaQ7dXSS](https://youtu.be/c13gpBrnGEw?si=Jhm-qvHVZaQ7dXSS)
+
+Finished code: [https://codepen.io/kevinpowell/pen/ExrZrrw](https://codepen.io/kevinpowell/pen/ExrZrrw)
