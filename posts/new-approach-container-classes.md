@@ -9,6 +9,12 @@ tags:
 added: 2026-01-19T22:30:53.692Z
 ---
 
-Kevin Powell's 2023 video: [https://youtu.be/c13gpBrnGEw?si=Jhm-qvHVZaQ7dXSS](https://youtu.be/c13gpBrnGEw?si=Jhm-qvHVZaQ7dXSS)
+Kevin Powell's 2023 video: [A new approach to container and wrapper classes](https://youtu.be/c13gpBrnGEw?si=Jhm-qvHVZaQ7dXSS)
 
-Finished code: [https://codepen.io/kevinpowell/pen/ExrZrrw](https://codepen.io/kevinpowell/pen/ExrZrrw)
+Finished code on [CodePen](https://codepen.io/kevinpowell/pen/ExrZrrw)
+
+Related links:
+
+* [Steph’s SmolCSS Breakout](https://smolcss.dev/#smol-breakout-grid) 
+* Ryan’s [Layout Breakouts with CSS Grid](https://ryanmulligan.dev/blog/layout-breakouts/)
+* YouTube Video: [Learn CSS Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU)
