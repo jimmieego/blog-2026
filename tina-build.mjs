@@ -31,7 +31,7 @@ const hasClientId = Boolean(process.env.TINACLIENTID);
 const hasToken = Boolean(process.env.TINATOKEN);
 const hasSearchToken = Boolean(process.env.TINASEARCH);
 
-const cloudCommand = `npx tinacms build${hasSearchToken ? "" : " --skip-search-index"}`;
+const cloudCommand = `npx tinacms build --skip-cloud-checks${hasSearchToken ? "" : " --skip-search-index"}`;
 const localFallbackCommand =
 	"npx tinacms build --local --skip-search-index --skip-cloud-checks";
 
