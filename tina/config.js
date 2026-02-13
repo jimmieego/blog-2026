@@ -97,20 +97,12 @@ export default defineConfig({
 								label: "Advice",
 							},
 							{
-								value: "events",
-								label: "Events",
-							},
-							{
 								value: "learning",
 								label: "Learning",
 							},
 							{
-								value: "meta",
-								label: "Meta",
-							},
-							{
-								value: "work",
-								label: "Work",
+								value: "design",
+								label: "Design",
 							},
 							{
 								value: "personal",
