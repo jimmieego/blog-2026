@@ -7,22 +7,17 @@ tags:
 added: 2026-02-13T01:06:30.338Z
 ---
 
+Link: [https://www.youtube.com/watch?v=4u94juYwLLM](https://www.youtube.com/watch?v=4u94juYwLLM)
+
 The way I've seen great work made is...
 
-\- Starting from solution first
-
-\- Caring ruthlessly about the details. Craft and quality take concerted time.
-
-\- Operating on intuition. Intuition is not guessing. Intuition is the ability to make reasoned judgments, quickly. Build intuition from:
-
-&#x9;\- Reading product feedback.
-
-&#x9;\- User research.
-
-&#x9;\- Dashboard/Metrics.
-
-\- Skipping steps and making them up. Your value as a designer is honing the process.
-
-\- Doing something just for the sake of making people smile
+* Starting from solution first
+* Caring ruthlessly about the details. Craft and quality take concerted time.
+* Operating on intuition. Intuition is not guessing. Intuition is the ability to make reasoned judgments, quickly. Build intuition from:
+  * Reading product feedback.
+  * User research.
+  * Dashboard/Metrics.
+* Skipping steps and making them up. Your value as a designer is honing the process.
+* Doing something just for the sake of making people smile
 
 It's time to trust ourselves again.
