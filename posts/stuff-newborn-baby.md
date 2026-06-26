@@ -23,3 +23,4 @@ added: 2026-06-26T21:06:37.635Z
 * Pigeon Glass Nursing Bottle ([Amazon link](https://a.co/d/0cfiwzvh))
 * Momcozy KleanPal Pro Baby Bottle Washer, Sterilizer & Dryer ([Amazon link](https://a.co/d/0ilMYzUG))
 * Dr. Brown's Soft Touch No Scratch Baby Bottle Cleaning Brush ([Amazon link](https://a.co/d/0hA5h02O))
+* eufy Security Baby Monitor E21 ([Amazon link](https://a.co/d/0j8i8qE1))
